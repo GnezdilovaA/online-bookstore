@@ -1,0 +1,2 @@
+D:\Учеба\Курс\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+D:\Учеба\Курс\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
